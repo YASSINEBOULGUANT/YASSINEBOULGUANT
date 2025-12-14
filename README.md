@@ -1,16 +1,98 @@
-## Hi there 👋
+# 👋 Hi, I'm Yassine Boulguant
 
-<!--
-**YASSINEBOULGUANT/YASSINEBOULGUANT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Student in Data Science & Intelligent Systems (INSEA – Rabat)  
+📍 Agadir, Morocco 🇲🇦  
+💡 Data Science • AI Engineering • NLP • RAG • MLOps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+I'm a **Data Science & AI Engineering student** passionate about building **end-to-end intelligent systems**, from raw data ingestion to production-ready AI applications.
+
+I enjoy working on:
+- 📊 Data analysis & predictive modeling  
+- 🤖 Machine Learning & Deep Learning  
+- 🔎 NLP, LLMs & Retrieval-Augmented Generation (RAG)  
+- 🚀 Deploying AI solutions into real-world environments  
+
+
+🛠️ Tech Stack
+🔹 Programming & Frameworks
+
+Python • SQL • Java • Scala
+FastAPI • Flask • Streamlit • Gradio
+
+🔹 Data Science & Machine Learning
+
+Pandas • NumPy • Scikit-learn • XGBoost
+MLflow • Feature Engineering • Model Evaluation
+
+🔹 Deep Learning & AI
+
+TensorFlow • CNN • RNN • Transformers
+Computer Vision (OpenCV, YOLO)
+Generative AI (Stable Diffusion)
+
+🔹 NLP & LLMs
+
+Text Preprocessing • Sentiment Analysis • Topic Modeling (LDA)
+Hugging Face Transformers • LangChain • RAG • FAISS
+LLMs: LLaMA • Mistral
+
+🔹 Data Engineering & Cloud
+
+Spark • Hadoop • Airflow • DBT
+PostgreSQL • MongoDB • Redis
+Azure • Docker • Linux
+
+🚀 Featured Projects
+🤖 Medical RAG Chatbot
+
+🔗 Repo
+
+Automated extraction of clinical biomarkers from medical reports using a Retrieval-Augmented Generation (RAG) pipeline.
+
+📈 Airline Customer Satisfaction Prediction
+
+🔗 Repo
+
+End-to-end ML pipeline to predict airline customer satisfaction using Kaggle datasets, deployed on Azure.
+
+🧠 Brain Tumor Classifier
+
+🔗 Repo
+
+Deep learning model for classifying brain tumors from MRI images with FastAPI deployment.
+
+📫 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/yassine-boulguant-538b44399/
+
+📧 Email: yassineboulguant@gmail.com
+
+💻 GitHub: https://github.com/YASSINEBOULGUANT
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Yassine Boulguant"
+        self.role = "Data Science & AI Engineering Student"
+        self.location = "Morocco 🇲🇦"
+        self.interests = [
+            "Machine Learning",
+            "NLP & LLMs",
+            "RAG Systems",
+            "MLOps & Deployment"
+        ]
+
+    def current_focus(self):
+        return [
+            "Building RAG-powered AI chatbots",
+            "End-to-end ML pipelines",
+            "AI applications with FastAPI & Streamlit",
+            "Data Engineering & Cloud foundations"
+        ]
+
+    def looking_for(self):
+        return "Final Year Project (PFE) or AI/Data internship"

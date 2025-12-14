@@ -66,7 +66,6 @@ Deep learning model for classifying brain tumors from MRI images with FastAPI de
 
 ## 📫 Let's Connect
 💼 LinkedIn: [Lien](https://www.linkedin.com/in/yassine-boulguant-538b44399/)  
-📧 Email: yassineboulguant@gmail.com  
 💻 GitHub: [Lien](https://github.com/YASSINEBOULGUANT)  
 
 ---

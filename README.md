@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yassine Boulguant
 
 🎓 MSc Student in Data Science & Intelligent Systems (INSEA – Rabat)  
-📍 Agadir, Morocco 🇲🇦  
+📍  Morocco 🇲🇦  
 💡 Data Science • AI Engineering • NLP • RAG • MLOps  
 
 ---
@@ -69,27 +69,3 @@ Deep learning model for classifying brain tumors from MRI images with FastAPI de
 💻 GitHub: [Lien](https://github.com/YASSINEBOULGUANT)  
 
 ---
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Yassine Boulguant"
-        self.role = "Data Science & AI Engineering Student"
-        self.location = "Morocco 🇲🇦"
-        self.interests = [
-            "Machine Learning",
-            "NLP & LLMs",
-            "RAG Systems",
-            "MLOps & Deployment"
-        ]
-
-    def current_focus(self):
-        return [
-            "Building RAG-powered AI chatbots",
-            "End-to-end ML pipelines",
-            "AI applications with FastAPI & Streamlit",
-            "Data Engineering & Cloud foundations"
-        ]
-
-    def looking_for(self):
-        return "Final Year Project (PFE) or AI/Data internship"
